@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 PROFILE=1
 while [$PORFILE -le 100000] ; do
   echo -3 "$PROFILE ****** \n" >\> mapped.txt
